@@ -1,4 +1,4 @@
 wsmb
 ====
 
-The technical interview FAQ about .net(c#)/js/web/architecture
+The technical interview FAQ about .net(c#)/java/js/web/architecture
