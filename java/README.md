@@ -10,10 +10,10 @@
 ### class文件和jar包的关系？
 
 ### spring mvc中interceptor和filter的区别？
-You can inject other beans in the interceptor
-You can use more advanced mapping patterns (ant-style)
-You have the target handler object (controller) available, as well as the result ModelAndView
-It is a bean, so you can use AOP with it (althoug that would be rare)
+- You can inject other beans in the interceptor
+- You can use more advanced mapping patterns (ant-style)
+- You have the target handler object (controller) available, as well as the result ModelAndView
+- It is a bean, so you can use AOP with it (althoug that would be rare)
 
 ## spring mvc相关
 
